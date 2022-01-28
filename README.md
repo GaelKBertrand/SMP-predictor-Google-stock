@@ -95,7 +95,7 @@ create_and_set_working_directory(ML_final_project)
 
 ## The things you need to change in the notebook are specified in the code below. The rest is just about running the notebook as it is. 
 
-# The processes in this notebook involve collecting data, training, testing, and collecting performance metrics. The description and steps are ordered as following: 
+## The processes in this notebook involve collecting data, training, testing, and collecting performance metrics. The description and steps are ordered as following: 
 
 1. Installing all other libraries and dependencies responsible for machine learning processes. 
 
