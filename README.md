@@ -1,6 +1,3 @@
-# SMP-predictor-Google-stock
-Stock Market Prediction using deep learning LSTM method
-
 # Stock Market Predictor (SMP): Predicting a closing price of a stock across a given period of time using deep learning
 
 
