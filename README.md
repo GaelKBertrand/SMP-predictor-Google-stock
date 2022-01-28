@@ -43,7 +43,7 @@ import os
 
 # Connect your script to Neptune new version 
 import os
-myProject = 'gaelkbertrand/google-stock-prediction'
+myProject = 'INPUT USERNAME/PROJECT' 
 
 neptune.init(project=myProject, 
              api_token='INPUT YOUR API TOKEN HERE')
