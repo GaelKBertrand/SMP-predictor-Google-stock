@@ -164,7 +164,7 @@ if data_source == 'alphavantage':
 npt_exp.stop()
 ```
 
-9) Gpo back to your neptune dashboard and click on the project to view the perfomance metrics and graphs. 
+9) Go back to your neptune dashboard and click on the project to view the perfomance metrics and graphs. 
 
 10) Thank you, hope you learned a lot. Key take aways: 
 
