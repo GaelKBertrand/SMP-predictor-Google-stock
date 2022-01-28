@@ -44,21 +44,14 @@ import neptune.new as neptune
 
 import os
 
-workspace = 'INPUT USERNAME' 
-project = 'INPUT USERNAME/PROJECT'
-project_name = "INPUT PROJECT NAME"
-
 # Connect your script to Neptune new version 
+import os
+myProject = 'gaelkbertrand/google-stock-prediction'
 
-myProject = 'INPUT USERNAME/PROJECT'
-project = neptune.init(api_token=os.getenv('NEPTUNE_API_TOKEN')
-                       project=myProject) 
-project.stop()
+neptune.init(project=myProject, 
+             api_token='INPUT YOUR API TOKEN HERE')
 
-#running neptune to log runs. Don't let the colab runtime run out because it will destroy this process. 
-#You will have to restart everything if that happens. 
-
-run = neptune.init(project=project_name, api_token=api_token)
+# The code above will also be running neptune to log runs. Don't let the colab runtime run out because it will destroy this process. 
 
 ```
 
