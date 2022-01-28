@@ -101,7 +101,7 @@ create_and_set_working_directory(ML_final_project)
 
 ```
 
-## For the following steps, you can just refer to the notebook file. The next processes involve collecting data, training, testing, and collecting performance metrics. The steps are ordered as following: 
+## For the following steps, you can just refer to the notebook file and run it after modifying a few necessary things. The next processes involve collecting data, training, testing, and collecting performance metrics. The steps are ordered as following: 
 
 1. Installing all other libraries and dependencies responsible for machine learning processes. 
 
