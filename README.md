@@ -1,4 +1,4 @@
-# Stock Market Predictor (SMP): Predicting a closing price of a stock across a given period of time using deep learning (LSTM)
+# Stock Market Predictor (SMP): Predicting a closing price of a stock across a given period of time using deep learning (LSTM) using Neptune.
 
 
 SMP demonstrates how to use time series data to be able to predict future stock prices. In this project, I predict the prices of Google using an RNN method known as LSTM. 
